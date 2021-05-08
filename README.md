@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, my name is Romain.
+### I am a full-stack developer with a passion for crafting beautiful interfaces and streamlined user experiences. 
+
+--- 
+Skill stack
+
+<img src="https://worldvectorlogo.com/logo/html5.svg" alt="HTML5 logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/css3.svg" alt="CSS3 logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/logo-javascript.svg" alt="JavaScript logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/typescript.svg" alt="TypeScript logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/bootstrap-4.svg" alt="Bootstrap logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/angular-icon-1.svg" alt="Angular logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/react-2.svg" alt="React logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/nodejs-1.svg" alt="Node.js logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/mysql-6.svg" alt="MySQL logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/sqlite.svg" alt="SQLite logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/mongodb.svg" alt="MongoDB logo" width="50" height="50"/> 
+---
+
 
 <!--
 **romdelav/romdelav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
