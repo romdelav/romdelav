@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Romain.
-### I am a full-stack developer with a passion for crafting beautiful interfaces and streamlined user experiences. 
+### I am a full-stack developer with a passion for crafting streamlined user experiences. 
 
 --- 
 Skill stack
